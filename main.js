@@ -60,7 +60,13 @@
         document.getElementById("price").innerHTML = "TICKET PRICE (20% off): " + discountedFare.toFixed(2) + " PHP";
     }
 
+    // Buy Ticket
+    function buy(){
+        window.alert("Your ticket has been sent to your email!");
+        location.reload();
+    }
+
     // Send Message
     function contact(){
-        alert("Your message has been sent successfully!");
+        window.alert("Your message has been sent successfully!");
     }
