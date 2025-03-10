@@ -143,7 +143,3 @@
     .footer a:hover {
         color: rgb(197, 216, 216);
     }
-
-    .footer-fixed {
-        position: fixed;
-    }
