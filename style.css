@@ -125,3 +125,15 @@
    		bottom: 0;
    		width: 100%;
     }
+
+    .footer a {
+        color: rgba(231, 255, 255, 1);
+    }
+
+    .footer a:hover {
+        color: rgb(197, 216, 216);
+    }
+
+    .footer-fixed {
+        position: fixed;
+    }
